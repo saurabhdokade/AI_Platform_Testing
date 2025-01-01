@@ -2,7 +2,9 @@
   "projects": {
     "default": "ai-based-training-platfo-ca895",
     "edtech-api.cehpoint.co.in": "ai-based-training-platfo-ca895",
-    "  ": "ai-based-training-platfo-bf840"
+    "  ": "ai-based-training-platfo-ca895.web.app",
+    " ": "ai-based-training-platfo-bf840",
+    "ai-based-training-platfo-ca895": "ai-based-training-platfo-bf840"
   },
   "targets": {},
   "etags": {}
