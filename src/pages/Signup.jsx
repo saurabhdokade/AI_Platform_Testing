@@ -225,9 +225,9 @@ const SignUp = () => {
                 Enter email & password to continue
               </p> */}
 
-              <p className="text-center font-normal text-red-600 py-4 dark:text-red-400 animate-pulse">
+             { /*<p className="text-center font-normal text-red-600 py-4 dark:text-red-400 animate-pulse">
                 Email and password signup is temporarily unavailable.
-              </p>
+              </p>*/}
 
               <div className="py-6 max-md:px-10">
                 <div className="mb-6">
